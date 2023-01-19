@@ -1,2 +1,9 @@
 # project_challenge1
-Project on alternative therapies for mental health in Australia
+
+Idea: What is the main cause of death in Australia?
+
+- What is the least cause of death?
+- 
+
+
+
