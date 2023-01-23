@@ -17,3 +17,7 @@ Causes of death (main and least cause of death)
 States - trends (main and least cause of death)
 Demographic of Death (gender, age)
 States that are trending upwards and downwards in death 
+
+https://www.abs.gov.au/statistics/health/causes-death/causes-death-australia/latest-release#:~:text=The%20mortality%20rate%20remained%20low,15th%20leading%20cause%20of%20death
+
+https://www.abs.gov.au/statistics/health/causes-death/provisional-mortality-statistics/latest-release
