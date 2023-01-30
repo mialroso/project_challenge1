@@ -25,8 +25,9 @@ https://www.abs.gov.au/statistics/health/causes-death/provisional-mortality-stat
 
 
 New:
-- Which year had the most deaths on a worldwide scale in the last 10 years 
+- Which year had the most deaths on a worldwide scale in the last 10 years (Deadliest)
 - Demographic of Death (age)
 - Countries that are trending upwards and downwards in death
 - Top 10 causes of death in Australia?
+-
 - Risk factors
