@@ -29,5 +29,4 @@ New:
 - Highest and the lowest age of suicidal deaths?(age)
 - Countries that are trending upwards and downwards in death
 - Top 10 causes of death in Australia?
-- Which country has the most suicides?
 - Risk factors
