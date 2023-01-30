@@ -29,4 +29,4 @@ New:
 - Demographic of Death (age)
 - Countries that are trending upwards and downwards in death
 - Top 10 causes of death in Australia?
-- Risk factors (Will these kill you faster)
+- Risk factors
