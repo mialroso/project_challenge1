@@ -25,9 +25,9 @@ https://www.abs.gov.au/statistics/health/causes-death/provisional-mortality-stat
 
 
 New:
-- Which year had the most deaths on a worldwide scale in the last 10 years (Deadliest)
-- Demographic of Death (age)
+- Which country had the most deaths regarding suicide?
+- Highest and the lowest age of suicidal deaths?(age)
 - Countries that are trending upwards and downwards in death
 - Top 10 causes of death in Australia?
--
+- Which country has the most suicides?
 - Risk factors
