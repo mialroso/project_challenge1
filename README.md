@@ -28,4 +28,15 @@ New:
 - Which country had the most deaths regarding suicide?
 - Countries that are trending upwards and downwards in death with suicide
 - younger suicide amount in comparison to older suicides amount
-- 
+
+
+New:
+
+Basic human rights are actually hard to aquire
+
+- Number of people living in extreme poverty 
+- Share of population living below $20 a day
+- Access to electricity 
+- Death rate from not having access to clean drinking water
+
+
