@@ -26,7 +26,6 @@ https://www.abs.gov.au/statistics/health/causes-death/provisional-mortality-stat
 
 New:
 - Which country had the most deaths regarding suicide?
-- Highest and the lowest age of suicidal deaths?(age)
-- Countries that are trending upwards and downwards in death
-- Top 10 causes of death in Australia?
-- Risk factors
+- Countries that are trending upwards and downwards in death with suicide
+- younger suicide amount in comparison to older suicides amount
+- 
