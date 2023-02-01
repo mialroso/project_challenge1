@@ -7,6 +7,8 @@ Project members:
 
 Topic: Cherish life
 
+According to our analysis, we found ten main reasons causes of death in Australia. Suicide is one of the reasons. In addition, 3144 Australians died by suicide in 2021, representing an age-standardised suicide death rate of 12.0 per 100,000 people. Every day, at least six Australians die from suicide, and a further thirty people will attempt to take their own life.
+
 Top 10 causes of death in Australia between 1990 to 2019
 ![image](https://user-images.githubusercontent.com/115611273/215752141-b019b342-3fbb-4de5-ac98-49025d7665ac.png)
 
